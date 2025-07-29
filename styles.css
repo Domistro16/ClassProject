@@ -150,7 +150,7 @@ marquee {
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background: linear-gradient(to bottom, #fff, hotpink);
+  background: linear-gradient(to bottom, #fff, #e07f9f);
 }
 .product {
   border: 1px solid #ccc;
