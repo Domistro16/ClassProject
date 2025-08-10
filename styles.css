@@ -134,6 +134,7 @@ marquee {
 .trustee img {
   width: 100%;
   border-radius: 50%;
+  height: 60%;
 }
 
 .event-grid {
@@ -175,6 +176,7 @@ marquee {
   text-align: center;
   cursor: pointer;
   transition: all 0.3s ease;
+  height: 340px
 }
 .event {
   padding: 15px;
